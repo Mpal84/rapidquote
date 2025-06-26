@@ -1,0 +1,42 @@
+{
+    "aluminium": [
+        {
+            "pipe_size": 0.5,
+            "thickness": 25,
+            "pipe_rm_per_m": 89,
+            "elbow_rm": 54,
+            "tee_rm": 45,
+            "flange_rm": 125,
+            "valve_rm": 178
+        },
+        {
+            "pipe_size": 0.5,
+            "thickness": 40,
+            "pipe_rm_per_m": 133,
+            "elbow_rm": 80,
+            "tee_rm": 67,
+            "flange_rm": 187,
+            "valve_rm": 266
+        }
+    ],
+    "ss304": [
+        {
+            "pipe_size": 0.5,
+            "thickness": 25,
+            "pipe_rm_per_m": 101,
+            "elbow_rm": 61,
+            "tee_rm": 51,
+            "flange_rm": 142,
+            "valve_rm": 202
+        },
+        {
+            "pipe_size": 0.5,
+            "thickness": 40,
+            "pipe_rm_per_m": 150,
+            "elbow_rm": 90,
+            "tee_rm": 75,
+            "flange_rm": 210,
+            "valve_rm": 300
+        }
+    ]
+}
